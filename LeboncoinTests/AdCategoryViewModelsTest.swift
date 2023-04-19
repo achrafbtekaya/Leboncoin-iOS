@@ -1,14 +1,13 @@
 //
-//  LeboncoinTests.swift
+//  AdCategoryViewModelsTest.swift
 //  LeboncoinTests
 //
-//  Created by Achref Ben Tekaya on 17/4/2023.
+//  Created by Achref Ben Tekaya on 19/4/2023.
 //
 
 import XCTest
-@testable import Leboncoin
 
-final class LeboncoinTests: XCTestCase {
+final class AdCategoryViewModelsTest: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
